@@ -1,0 +1,266 @@
+{
+  "youtube_media_export": {
+    "export_metadata": {
+      "version": "v3.1.4",
+      "export_timestamp": "2026-07-11T05:47:32Z",
+      "requested_by": "admin_system",
+      "total_items_processed": 2,
+      "data_retention_policy": "infinite"
+    },
+    "channel_context": {
+      "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuQA",
+      "channel_name": "Deep Dive Academics",
+      "creation_date": "2018-04-12T14:22:00Z",
+      "subscriber_count": 1450293,
+      "total_views": 384729104,
+      "channel_keywords": [
+        "education",
+        "astrophysics",
+        "oceanography",
+        "documentary",
+        "science",
+        "long-form",
+        "lectures"
+      ]
+    },
+    "media_assets": [
+      {
+        "video_id": "dQw4w9WgXcQ_sim",
+        "snippet": {
+          "title": "The Complete Guide to Advanced Astrophysics: From Quasars to Quantum Gravity",
+          "description": "In this comprehensive 3-hour masterclass, we explore the deepest mysteries of the cosmos. We begin with the fundamental forces of nature, scale up to stellar life cycles, and eventually dive into the theoretical frameworks of quantum gravity and string theory. \n\nTimestamps are provided below for your convenience.\n\nReferences:\n1. Hawking, S. (1988) A Brief History of Time.\n2. Thorne, K. (2014) The Science of Interstellar.",
+          "published_at": "2026-05-14T09:00:00Z",
+          "category_id": 27,
+          "default_language": "en",
+          "tags": [
+            "astrophysics",
+            "physics",
+            "quantum mechanics",
+            "relativity",
+            "black holes",
+            "quasars",
+            "dark matter",
+            "dark energy",
+            "cosmology",
+            "space exploration",
+            "universe",
+            "science documentary",
+            "educational lecture",
+            "university physics",
+            "string theory",
+            "gravity",
+            "neutron stars",
+            "pulsars"
+          ]
+        },
+        "content_details": {
+          "duration": "PT3H14M42S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensed_content": true,
+          "projection": "rectangular",
+          "resolution_max": "2160p",
+          "fps_max": 60
+        },
+        "statistics": {
+          "view_count": "4592011",
+          "like_count": "210495",
+          "dislike_count": "1402",
+          "favorite_count": "0",
+          "comment_count": "18392",
+          "average_view_duration_seconds": 4512
+        },
+        "chapters": [
+          { "title": "Introduction to the Cosmos", "start_time": 0 },
+          { "title": "The Standard Model of Particle Physics", "start_time": 452 },
+          { "title": "General Relativity Explained", "start_time": 1820 },
+          { "title": "Stellar Nucleosynthesis", "start_time": 3405 },
+          { "title": "Supernovae and Neutron Stars", "start_time": 4912 },
+          { "title": "The Anatomy of a Black Hole", "start_time": 6120 },
+          { "title": "Quasars and Active Galactic Nuclei", "start_time": 7890 },
+          { "title": "The Dark Sector: Matter and Energy", "start_time": 9205 },
+          { "title": "Quantum Gravity Conundrum", "start_time": 10540 },
+          { "title": "Future of Astrophysics", "start_time": 11200 }
+        ],
+        "transcript": [
+          { "offset_ms": 0, "duration_ms": 4500, "text": "Welcome back to Deep Dive Academics." },
+          { "offset_ms": 4500, "duration_ms": 5200, "text": "Today, we are embarking on a journey that spans the entire universe." },
+          { "offset_ms": 9700, "duration_ms": 6100, "text": "From the incredibly small quantum scales to the largest superclusters of galaxies." },
+          { "offset_ms": 15800, "duration_ms": 4800, "text": "If you've ever looked up at the night sky and wondered what holds it all together..." },
+          { "offset_ms": 20600, "duration_ms": 3200, "text": "...you are in the right place." },
+          { "offset_ms": 23800, "duration_ms": 7500, "text": "We will start our discussion by tearing apart the atom and looking at the fundamental forces." },
+          { "offset_ms": 31300, "duration_ms": 5000, "text": "Gravity, electromagnetism, the strong nuclear force, and the weak nuclear force." },
+          { "offset_ms": 36300, "duration_ms": 8200, "text": "These four pillars dictate everything from the fusion in the heart of our sun to the decay of radioactive isotopes." },
+          { "offset_ms": 44500, "duration_ms": 6000, "text": "But to truly understand the cosmos, we have to understand how these forces interact at scale." },
+          { "offset_ms": 50500, "duration_ms": 5500, "text": "Let's begin by defining the Standard Model of Particle Physics." },
+          { "offset_ms": 56000, "duration_ms": 7100, "text": "Imagine a table of elements, but instead of atoms, we are looking at the fundamental building blocks of reality." },
+          { "offset_ms": 63100, "duration_ms": 4400, "text": "Quarks, leptons, and the gauge bosons that mediate their interactions." },
+          { "offset_ms": 67500, "duration_ms": 6800, "text": "When we combine two up quarks and one down quark, we get a proton. Bound by the strong force." },
+          { "offset_ms": 74300, "duration_ms": 5900, "text": "This strong force is mediated by particles called gluons. Aptly named, because they 'glue' things together." },
+          { "offset_ms": 80200, "duration_ms": 8000, "text": "However, the Standard Model, as beautiful and mathematically rigorous as it is, has a glaring hole." },
+          { "offset_ms": 88200, "duration_ms": 3500, "text": "It completely ignores gravity." },
+          { "offset_ms": 91700, "duration_ms": 7200, "text": "For gravity, we must turn to Albert Einstein and his General Theory of Relativity, published in 1915." },
+          { "offset_ms": 98900, "duration_ms": 6400, "text": "Einstein proposed that gravity is not a pull between masses, but rather a curvature of spacetime itself." },
+          { "offset_ms": 105300, "duration_ms": 5500, "text": "Matter tells spacetime how to curve, and spacetime tells matter how to move." },
+          { "offset_ms": 110800, "duration_ms": 9000, "text": "This brilliant insight revolutionized astrophysics, allowing us to predict phenomena like gravitational lensing and black holes." }
+        ],
+        "comments_sample": [
+          {
+            "comment_id": "UgwX1v4a_xyZ89",
+            "author_name": "AstroGeek99",
+            "text": "The explanation of the Standard Model here is the clearest I've ever heard. Thank you!",
+            "like_count": 4502,
+            "published_at": "2026-05-14T10:15:22Z",
+            "replies": [
+              {
+                "comment_id": "UgwX1v4a_xyZ89_r1",
+                "author_name": "Deep Dive Academics",
+                "text": "Glad you found it helpful! It's a complex topic to condense.",
+                "like_count": 892,
+                "published_at": "2026-05-14T11:05:00Z"
+              }
+            ]
+          },
+          {
+            "comment_id": "UgzY2w5b_yzA01",
+            "author_name": "PhysicsStudent_2027",
+            "text": "I have an exam on stellar nucleosynthesis tomorrow and this video just saved my grade. The visual at 56:45 showing the carbon-nitrogen-oxygen cycle was brilliant.",
+            "like_count": 1205,
+            "published_at": "2026-05-15T02:33:10Z",
+            "replies": []
+          },
+          {
+            "comment_id": "UgaZ3x6c_zaB12",
+            "author_name": "CuriousMind_88",
+            "text": "I'm still struggling to wrap my head around how time slows down near a black hole. Does the observer falling in notice it, or just the people watching from outside?",
+            "like_count": 340,
+            "published_at": "2026-05-16T18:40:55Z",
+            "replies": [
+              {
+                "comment_id": "UgaZ3x6c_zaB12_r1",
+                "author_name": "SpaceTime_Enthusiast",
+                "text": "To the person falling in, time feels completely normal! It's only the outside observer who sees them slow down and freeze at the event horizon due to gravitational time dilation.",
+                "like_count": 210,
+                "published_at": "2026-05-16T19:05:12Z"
+              }
+            ]
+          }
+        ],
+        "analytics_timeseries_30d": {
+          "dates": ["2026-05-14", "2026-05-15", "2026-05-16", "2026-05-17", "2026-05-18", "2026-05-19", "2026-05-20"],
+          "views_daily": [500200, 420100, 310500, 250000, 210000, 185000, 160000],
+          "watch_time_hours_daily": [625250, 525125, 388125, 312500, 262500, 231250, 200000],
+          "subscribers_gained_daily": [15000, 12000, 8500, 6200, 5100, 4300, 3800]
+        }
+      },
+      {
+        "video_id": "vYb9832_PqLz",
+        "snippet": {
+          "title": "Documentary: The Deep Ocean Exploration - Mariana Trench and Beyond",
+          "description": "Descend with us into the darkest, most mysterious regions of our planet. The deep ocean remains less explored than the surface of the moon. In this feature-length documentary, we utilize cutting-edge submersibles to uncover the bizarre biology and intense geology of the Mariana Trench, hydrothermal vents, and the abyssal plains.\n\nProduced in stunning 4K HDR.",
+          "published_at": "2026-06-20T12:00:00Z",
+          "category_id": 28,
+          "default_language": "en",
+          "tags": [
+            "oceanography",
+            "marine biology",
+            "deep sea",
+            "mariana trench",
+            "documentary",
+            "submersible",
+            "ocean exploration",
+            "hydrothermal vents",
+            "abyssal plain",
+            "bioluminescence",
+            "extreme environments",
+            "earth science",
+            "nature",
+            "wildlife"
+          ]
+        },
+        "content_details": {
+          "duration": "PT2H05M11S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensed_content": true,
+          "projection": "rectangular",
+          "resolution_max": "2160p",
+          "fps_max": 24
+        },
+        "statistics": {
+          "view_count": "2810455",
+          "like_count": "156780",
+          "dislike_count": "890",
+          "favorite_count": "0",
+          "comment_count": "12055",
+          "average_view_duration_seconds": 3890
+        },
+        "chapters": [
+          { "title": "The Sunlight Zone to the Twilight Zone", "start_time": 0 },
+          { "title": "Bioluminescence: The Language of the Deep", "start_time": 950 },
+          { "title": "The Midnight Zone: Pressure Mounts", "start_time": 2100 },
+          { "title": "Hydrothermal Vents: Life Without the Sun", "start_time": 3800 },
+          { "title": "The Abyssal Plain: A Desert of Snow", "start_time": 5200 },
+          { "title": "Descending into the Mariana Trench", "start_time": 6400 },
+          { "title": "Challenger Deep: The Bottom of the World", "start_time": 7100 }
+        ],
+        "transcript": [
+          { "offset_ms": 0, "duration_ms": 5000, "text": "Water covers more than seventy percent of our planet's surface." },
+          { "offset_ms": 5000, "duration_ms": 6500, "text": "Yet, the vast majority of this aquatic realm remains completely hidden in perpetual darkness." },
+          { "offset_ms": 11500, "duration_ms": 8000, "text": "We have mapped the surfaces of Mars and Venus with greater resolution than we have mapped our own ocean floor." },
+          { "offset_ms": 19500, "duration_ms": 4000, "text": "Today, we are changing that." },
+          { "offset_ms": 23500, "duration_ms": 7000, "text": "Aboard the research vessel 'Oceanos', a team of international scientists prepares for a historic dive." },
+          { "offset_ms": 30500, "duration_ms": 6500, "text": "Their destination: the Challenger Deep, the deepest known point in the Earth's seabed hydrosphere." },
+          { "offset_ms": 37000, "duration_ms": 5500, "text": "Located in the western Pacific Ocean, at the southern end of the Mariana Trench." },
+          { "offset_ms": 42500, "duration_ms": 8500, "text": "As the submersible begins its descent, we first pass through the Epipelagic, or sunlight zone." },
+          { "offset_ms": 51000, "duration_ms": 6000, "text": "Here, photosynthesis is possible, and life is abundant. Phytoplankton form the base of the food web." },
+          { "offset_ms": 57000, "duration_ms": 7500, "text": "But as we drop below 200 meters, the light begins to fade rapidly. Welcome to the Twilight Zone." },
+          { "offset_ms": 64500, "duration_ms": 8000, "text": "Temperatures drop, and pressure increases by one atmosphere for every ten meters of descent." },
+          { "offset_ms": 72500, "duration_ms": 6500, "text": "In this dim world, creatures have evolved extraordinary adaptations to survive." },
+          { "offset_ms": 79000, "duration_ms": 5000, "text": "Massive eyes to capture the faintest glimmer of light, and transparent bodies for camouflage." },
+          { "offset_ms": 84000, "duration_ms": 9000, "text": "At 1,000 meters down, all sunlight vanishes. We have entered the Bathypelagic, the Midnight Zone." },
+          { "offset_ms": 93000, "duration_ms": 7000, "text": "The only light here is created by biology itself. Bioluminescence." },
+          { "offset_ms": 100000, "duration_ms": 8500, "text": "Flashes of blue and green cut through the black water. It is used to attract prey, find mates, or confuse predators." },
+          { "offset_ms": 108500, "duration_ms": 6000, "text": "Look closely at this anglerfish, using a glowing lure extending from its dorsal fin." },
+          { "offset_ms": 114500, "duration_ms": 7000, "text": "It waits patiently, expending minimal energy in a habitat where food is incredibly scarce." },
+          { "offset_ms": 121500, "duration_ms": 5500, "text": "We continue downward, past 4,000 meters, into the Abyssopelagic zone." },
+          { "offset_ms": 127000, "duration_ms": 8000, "text": "The water temperature is near freezing, and the pressure is a crushing 400 times greater than at the surface." }
+        ],
+        "comments_sample": [
+          {
+            "comment_id": "UhcA1b2c_deF34",
+            "author_name": "MarineBio_Nerd",
+            "text": "The footage of the hydrothermal vents at 38:00 is absolutely breathtaking. Seeing the tube worms thriving in that toxic, boiling water proves that life finds a way.",
+            "like_count": 2890,
+            "published_at": "2026-06-20T14:10:00Z",
+            "replies": []
+          },
+          {
+            "comment_id": "UhdB2c3d_efG45",
+            "author_name": "OceanExplorer_Dan",
+            "text": "It's terrifying but mesmerizing. The sheer pressure at the Challenger Deep is hard to comprehend. How thick is the titanium hull on that submersible?",
+            "like_count": 850,
+            "published_at": "2026-06-21T08:22:14Z",
+            "replies": [
+              {
+                "comment_id": "UhdB2c3d_efG45_r1",
+                "author_name": "Deep Dive Academics",
+                "text": "The pressure sphere is made of 90mm (3.5 inch) thick titanium alloy, precision machined to perfect sphericity to distribute the immense 16,000 PSI of pressure evenly.",
+                "like_count": 1205,
+                "published_at": "2026-06-21T09:15:30Z"
+              }
+            ]
+          }
+        ],
+        "analytics_timeseries_30d": {
+          "dates": ["2026-06-20", "2026-06-21", "2026-06-22", "2026-06-23", "2026-06-24", "2026-06-25", "2026-06-26"],
+          "views_daily": [850000, 620000, 450000, 320000, 210000, 150000, 110000],
+          "watch_time_hours_daily": [918000, 669600, 486000, 345600, 226800, 162000, 118800],
+          "subscribers_gained_daily": [22000, 16500, 11000, 8000, 5500, 3200, 2100]
+        }
+      }
+    ]
+  }
+}
